@@ -21,11 +21,13 @@ Lesson Plan Template:
 
 #### Topic:
 This lesson will cover the basics of Python programming. 
+
     * Python as a caculator
     * Data types
     * Lists/dictionaries/tuples/sets
     * casting
     * If/elif/for loops
+    
 #### Learn.co material:
 
 #### materials
