@@ -21,30 +21,29 @@ Lesson Plan Template:
 
 #### Topic:
 This lesson will cover the basics of Python programming. 
-
-    * Python as a caculator
-    * Data types
-    * Lists/dictionaries/tuples/sets
-    * casting
-    * If/elif/for loops
+- Python as a caculator
+- Data types
+- Lists/dictionaries/tuples/sets
+- casting
+- If/elif/for loops
     
 #### Learn.co material:
 
 #### materials
-(python_101_repo)[https://github.com/learn-co-curriculum/python_101_sea_chi]
+[python_101_repo](https://github.com/learn-co-curriculum/python_101_sea_chi)
 
 #### Prerequisite knowledge/ Prework:
 Be able to open a Jupyter notebook
 
 #### Learning goals for this lesson:
 Greg
-    * SWBAT use Python as a caculator
-    * SWBAT differentiat between different data types
+- SWBAT use Python as a caculator
+- SWBAT differentiat between different data types
 Max
-    Learning Goal 1 [16 min]: Students will be able to understand the difference between and use lists/dictionaries/tuples/lists
-    Learning Goal 2 [2 min]: Students will be able to cast objects as other types
-    Learning Goal 3 [3 min]: Students will be able to code if/else statements
-    Learning Goal 4 [3 min]: SWBAT execute for loops
+- Learning Goal 1 [16 min]: Students will be able to understand the difference between and use lists/dictionaries/tuples/lists
+- Learning Goal 2 [2 min]: Students will be able to cast objects as other types
+- Learning Goal 3 [3 min]: Students will be able to code if/else statements
+- Learning Goal 4 [3 min]: SWBAT execute for loops
 
 
 Part 1: 
@@ -80,8 +79,8 @@ We define dictionaries using curly braces, and each key/value is associated to o
 
 We can access the keys using the keys() method and the values with the values() method.
 
-The items method returns both keys and values together.
-We can access values in a keys object using list.
+The items method returns both keys and values together.<br>
+We can access values in a keys object using list.<br>
 We can reset the values of a dictioanry using the key.
 
 ##################################################
@@ -91,7 +90,7 @@ We can reset the values of a dictioanry using the key.
 
 Tuples are similar to lists, but they are immutable.
 We define them with open and closed parens.
-Tuples are hashable [https://docs.python.org/3/glossary.html#term-hashable]. An object is hashable if its value does not change over time.
+Tuples are [hashable](https://docs.python.org/3/glossary.html#term-hashable). An object is hashable if its value does not change over time.
 
 Sets are like lists, but all the values are unique. They are defined with curly braces
 We see instantiating a set with duplicate values shrinks down the set to the unique values.
